@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pt.pngtree.com/free-png-vectors/emoticon-nerd" alt="Logo" height="200">
+<img src="https://github.com/Thatacorekook902/node-formula-1/blob/main/.github/assets/nerd.png?raw=true" alt="Logo" height="200">
 
 # NODE BOILERPLATE - BLUE EDITION
 
